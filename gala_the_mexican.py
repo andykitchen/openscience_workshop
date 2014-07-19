@@ -1,6 +1,7 @@
 
 def main():
 	print "I am mexican"
+	print "\n taco taco"
 
 
 
